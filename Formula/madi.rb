@@ -1,8 +1,8 @@
 class Madi < Formula
   desc "Native Rust code editor built on the gyeol UI toolkit, centered on git worktrees"
   homepage "https://github.com/eatnows/madi"
-  url "https://github.com/eatnows/madi/archive/refs/tags/v0.1.3.tar.gz"
-  sha256 "7e48184c0b7c2a4356b99ecd6179c59bfa42072a0f3fef3b00f733c258699fde"
+  url "https://github.com/eatnows/madi/archive/refs/tags/v0.1.4.tar.gz"
+  sha256 "727ecc4245281ac7c9bdf4005e650086769fe435a77d7ac70de936759cac949a"
   license "GPL-3.0-or-later"
   head "https://github.com/eatnows/madi.git", branch: "main"
 
